@@ -1,0 +1,1 @@
+# BlurSense-Detec-o-e-Desfoque-Inteligente
