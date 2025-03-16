@@ -25,7 +25,7 @@ O sistema verifica e instala automaticamente os seguintes pacotes:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/BlurSense.git
+git clone https://github.com/LucasCosta01-code/BlurSense.git
 cd BlurSense
 ```
 
